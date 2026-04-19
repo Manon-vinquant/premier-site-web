@@ -1,0 +1,37 @@
+body{
+    background-color: blueviolet;
+    color: bisque;
+    font-family: "Chango", sans-serif;
+    padding: 0;
+    margin: 0;
+    }
+@import url('https://fonts.googleapis.com/css2?family=Chango&family=Dancing+Script:wght@400..700&display=swap');
+h1{
+    font-family: "Chango", system-ui;
+    text-align: center;
+    font-size: 60px;
+    padding: 150px;
+}
+p{
+    padding: 50px;
+    font-size: 30px;
+}
+.discord{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+    display: inline;
+    border-radius: 50%;
+}
+.instagram{
+    height: 140px;
+    width: 140px;
+    margin-bottom: 42px;
+    display: inline;
+}
+.snapchat{
+    height: 120px;
+    width: 200px;
+    margin-bottom: 50px;
+    display: inline;
+}
